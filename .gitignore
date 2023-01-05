@@ -1,0 +1,8 @@
+api/__pycache__
+market/__pycache__
+orkut/__pycache__
+users/__pycache__
+market/migrations
+users/migrations
+log
+
